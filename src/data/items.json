@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "The Wicked + The Divine",
+    "price": 12.99,
+    "imgUrl": "/imgs/TWTD.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mighty Morphin",
+    "price": 16.99,
+    "imgUrl": "/imgs/Mighty_Morphin.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Radiant Black",
+    "price": 16.99,
+    "imgUrl": "/imgs/Radiant_Black.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Black Science",
+    "price": 12.99,
+    "imgUrl": "/imgs/Black_Science.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Paper Girls",
+    "price": 13.99,
+    "imgUrl": "/imgs/Paper_Girls.png"
+  },
+  {
+    "id": 6,
+    "name": "God Hates Astronaughts",
+    "price": 13.99,
+    "imgUrl": "/imgs/God_Hates_Astronaughts.jpg"
+  },
+  {
+      "id": 7,
+      "name": "Curse Words",
+      "price": 13.99,
+      "imgUrl": "/imgs/Curse_Words.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sex Criminals",
+    "price": 13.99,
+    "imgUrl": "/imgs/Sex_Criminals.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Saga",
+    "price": 13.99,
+    "imgUrl": "/imgs/Saga.jpg"
+  }
+]
